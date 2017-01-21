@@ -7,6 +7,8 @@ This is an implement of the algorithm(SGM) about the paper (Stereo Processing by
  
 By the way, there is some testing datas and associate results in the directory of data. One can use it for some test.
 
+And some running results:
+http:://github.com/xxsong5/SGM-disparity/raw/master/data/imLLL.png
 
 
 how to run this code ?(compile)
