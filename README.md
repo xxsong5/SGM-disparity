@@ -15,7 +15,7 @@ And some running results:
 
 how to run this code ?(compile)  
 
-cd SGM_disparity   
+cd SGM-disparity   
 mkdir build   
 cd build    
 cmake ..    
